@@ -66,7 +66,6 @@ A web application to help users calculate their take-home pay after taxes and de
 *   **React:** A JavaScript library for building user interfaces.
 *   **Vite:** A fast build tool and development server.
 *   **TypeScript:** A superset of JavaScript that adds static typing.
-*   **Mantine:** A comprehensive React components library.
 *   **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 *   **ESLint:** A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 
